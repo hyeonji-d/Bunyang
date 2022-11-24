@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="종류">
+        <item>경력</item>
+        <item>안내견</item>
+        <item>군견</item>
+        <item>마약탐지견</item>
+    </string-array>
+    <string-array name="지역">
+        <item>지역</item>
+        <item>서울</item>
+        <item>경기도</item>
+        <item>강원도</item>
+        <item>충청도</item>
+        <item>전라도</item>
+        <item>경상도</item>
+        <item>제주도</item>
+    </string-array>
+    <string-array name="성별">
+        <item>성별</item>
+        <item>남</item>
+        <item>여</item>
+    </string-array>
+    <string-array name="나이">
+        <item>나이</item>
+        <item>0~5</item>
+        <item>6~10</item>
+        <item>11~15</item>
+    </string-array>
+    <string-array name="견종">
+        <item>견종</item>
+        <item>리트리버</item>
+        <item>푸들</item>
+        <item>셰퍼드</item>
+        <item>스파니엘</item>
+        <item>요크셔테리어</item>
+        <item>보더콜리</item>
+        <item>마리노이즈</item>
+        <item>비글</item>
+        <item>웰시코기</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="크기">
+        <item>크기</item>
+        <item>소형견</item>
+        <item>중형견</item>
+        <item>대형견</item>
+    </string-array>
+
+
+</resources>
